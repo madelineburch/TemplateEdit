@@ -2,23 +2,15 @@
 Code taken from Mapbox as template
 
 <section id="bikeshare" class="fill-light block-section">
-<div class="pad8y clearfix">
-   <div class="col8 margin4r space-bottom4">
-      <h2 class="denim space-bottom1">Building blocks for route planning</h2>
-      <p class="prose-big quiet">Build an app to find bike stations near you and your destination. Add directions to navigate there and an elevation profile to better understand the route. <a href="https://www.mapbox.com/blog/dc-bikeshare-revisited/">Read more about the bikeshare project on our blog.</a></p>
-   </div>
+<div class="clearfix"> <!--Forces element to clear all of its children-->
 
    <div class="col4 margin1r clearfix bikeshare-col">
        <div class="z10">
           <div class="device device-phone-v light">
             <div class="device-details"></div>
             <div class="home"></div>
-              <video id="editor-video" width="100%" height="auto" autoplay="autoplay" loop="" preload="auto" class="hide-mobile device-content" poster="/home/video/bikeshare.jpg">
-              <source src="home/video/bikeshare.mp4" type="video/mp4">
-              <source src="home/video/bikeshare.webm" type="video/webm">
-              <img src="/home/video/bikeshare.jpg" width="100%" height="auto">
-              </video>
-               <img src="/home/video/bikeshare.jpg" class="example-1-image show-mobile" width="100%" height="6.25%" alt="">
+              <img id="ComputerGraphic" width="100%" height="auto" class="hide-mobile device-content" src="/Users/madelineburch/Documents/CartoFront/Images/AboutPage/images/ComputerGraphic.png">
+             
           </div>
         </div>
       </div>
