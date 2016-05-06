@@ -1,0 +1,43 @@
+    <div class="col-7 123">
+      <ul class="clearfix space left4 icon-container">
+        <li class="col12 clearfix pad2y">
+          <div class="number dot contain col2">
+            <img src="Images/AboutPage/images/pngFiles/1.png">
+          </div>
+        <div class="col10">
+          <div class="space-left4">
+            <h1 class="Choose space-bottom1">
+              Choose a Map.
+            </h1>
+          <p class="text">Browse our constantly expanding catalogue of maps<br>in Chicago, New York and Washington DC. <br>(more cities to come)</p>
+        </div>
+      </div>
+      </li>
+      <li class="col12 clearfix pad2y">
+        <div class="number dot contain col2">
+          <img src="Images/AboutPage/images/pngFiles/2.png">
+        </div>
+      <div class="col10 space-bottom4">
+        <div class="space-left4">
+          <h2 class="Choose space-bottom1">
+            Explore a City.
+          </h2>
+        <p class="text">Navigate the opportunity layers and forecasting <br> maps across urban and suburban regions instantly. </p>
+        </div>
+      </div>
+    </li>
+      <li class="col12 clearfix pad2y">
+        <div class"number dot contain col2">
+          <img src="Images/AboutPage/images/pngFiles/3">
+        </div>
+        <div class="col10 space-bottomed2">
+         <div class="space-left4">
+          <h3 class="Choose space-bottom1">
+            Discover Hidden Value.
+          </h3>
+         <p class="text">Looking for that next ideal location? An assest with <br> untapped potential? Or something that fits your own <br> unique search criteria. CartoFront delivers.</p>
+        </div>
+       </div>
+      </li>
+      </ul>
+      </div>
